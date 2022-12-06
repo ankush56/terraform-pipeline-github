@@ -16,6 +16,7 @@ az ad sp create-for-rbac --name "sp-hello-azure-tf" --role Contributor --scopes 
 
 ```
 **Configure Azure env variables**
+> Set these as secrets in github repo secrets
 
 
 ```
